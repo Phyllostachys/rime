@@ -1,0 +1,6 @@
+[package]
+name = "rime"
+version = "0.1.0"
+authors = ["Jacob Shaffer <jpshaffer5481@gmail.com>"]
+
+[dependencies]
